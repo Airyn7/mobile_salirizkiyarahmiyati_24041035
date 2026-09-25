@@ -1,9 +1,9 @@
 void main() {
-  var firstName = 'Wendy';
+  var firstName = 'Liam';
   firstName = 'Keith';
   final lastName = 'Wilson'; //final tdk bisa diubah
   int umur = 15;
-  final tb = 159;
+  final tb = 160;
 
   print(firstName);
   print(lastName);

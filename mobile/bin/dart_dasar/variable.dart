@@ -1,6 +1,6 @@
 void main() {
-  String nama = 'Bakekok';
-  nama = 'Bakekok';
+  String nama = 'Sapa';
+  nama = 'Sapa';
 
   print(nama);
   print(nama);

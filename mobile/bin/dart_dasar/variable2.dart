@@ -4,7 +4,7 @@ void main() {
   int umur = 45;
   int tb = 165;
   int bb = 55;
-  var nama = 'Nina';
+  var nama = 'Rosalina';
 
   print(firstName);
   print(lastName);
