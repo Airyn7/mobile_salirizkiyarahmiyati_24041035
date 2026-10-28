@@ -6,8 +6,7 @@ int factorialRecursive(int value) {
   }
 }
 
-void main()
-{
+void main() {
   print(factorialRecursive(5));
   print(factorialRecursive(10));
 }
